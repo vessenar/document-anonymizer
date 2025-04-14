@@ -1,6 +1,6 @@
-# Document Anonymizer Tool
+# Document Anonymizer (Redaction) Tool
 
-The **Document Anonymizer Tool** is a Python-based script designed to help freelancers, solopreneurs, and small businesses anonymize sensitive information (PII - Personally Identifiable Information) in their portfolio documents. This tool automates the process of redacting sensitive data, saving time and effort when preparing documents for sharing with clients or the public.
+The **Document Anonymizer (Document Redaction) Tool** is a Python-based script designed to help freelancers, solopreneurs, and small businesses anonymize or to redact sensitive information (PII - Personally Identifiable Information) in their portfolio documents. This tool automates the process of redacting sensitive data, saving time and effort when preparing documents for sharing with clients or the public.
 
 ## Problem Statement
 
