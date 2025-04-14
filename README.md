@@ -43,9 +43,9 @@ This tool is intended for **advanced users** who are comfortable with Python and
 
 ### Required Libraries
 
-Install the required libraries using `pip`:
+Install the required libraries listed in the `requirements.txt` file:
 ```bash
-pip install spacy python-docx openpyxl pymupdf
+pip install -r [requirements.txt](http://_vscodecontentref_/2)
 ```
 
 Additionally, download the spaCy language model:
